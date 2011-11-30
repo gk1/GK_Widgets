@@ -1,0 +1,3 @@
+Requirements for new widget:
+
+must be widget like.
